@@ -5,7 +5,8 @@
 
 > Status: Developing ⚠️
 
-![Preview]("../../../assets/preview01.png")
+![preview01](https://user-images.githubusercontent.com/90296084/230648029-e2eace95-1c09-490f-b878-193dba62c257.png)
+
 
 <h2 align="center"> 🛠 Technologies Used: </h2>
 <table align="center">
