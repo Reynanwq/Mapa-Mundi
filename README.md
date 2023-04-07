@@ -5,7 +5,7 @@
 
 > Status: Developing ⚠️
 
-![Preview]('../../../assets/preview01.png')
+![Preview]("../../../assets/preview01.png")
 
 <h2 align="center"> 🛠 Technologies Used: </h2>
 <table align="center">
