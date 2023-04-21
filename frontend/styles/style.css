@@ -5,10 +5,11 @@
     list-style: none;
     box-sizing: border-box;
 }
+
 header{
 
-    background-color: aqua;
-
+    background-color: rgb(162, 240, 252);
+    font-size: 40px;
 }
 
 footer{
@@ -16,11 +17,11 @@ footer{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-color: bisque;
+    background-color: rgb(252, 209, 255);
     color: black;
     gap: 10px;
-
 }
+
 footer li a{
     color: black;
     text-decoration:none;
@@ -30,8 +31,9 @@ footer li a{
 footer #azul{
     color: blue;
 }
+
 footer .organizando{
   display:flex;
   flex-direction: column;
-  padding: 30px;
+  padding: 40px;
 }
