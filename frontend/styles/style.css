@@ -28,12 +28,8 @@ footer li a{
     list-style: none;
 }
 
-footer #azul{
-    color: blue;
-}
-
 footer .organizando{
   display:flex;
   flex-direction: column;
-  padding: 40px;
+  padding: 20px;
 }
