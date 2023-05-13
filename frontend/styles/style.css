@@ -6,10 +6,17 @@
     box-sizing: border-box;
 }
 
+img {
+    float: left; /* ou float: right; */
+    margin-right: 10px; /* ou margin-left: 20px; */
+  }
+
+
 header{
 
     background-color: rgb(162, 240, 252);
-    font-size: 40px;
+    font-size:46px;
+    
 }
 
 main{
