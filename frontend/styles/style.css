@@ -12,6 +12,10 @@ header{
     font-size: 40px;
 }
 
+main{
+    background-color: rgb(239, 231, 231);
+}
+
 footer{
     display: flex;
     flex-direction: row;
