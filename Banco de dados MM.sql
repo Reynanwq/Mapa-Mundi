@@ -130,7 +130,7 @@ INSERT INTO oceanos (name, tam) VALUES ('Pacífico Norte', 107.0); -- MIL
 INSERT INTO oceanos (name, tam) VALUES ('Pacífico Sul', 37.0); -- EM MILHOES
 INSERT INTO oceanos (name, tam) VALUES ('Atlântico Norte', 107.0); -- EM MILHOES
 
--- INSERINDO DADOS DOS PAISES AFRICANOS joao
+-- INSERINDO DADOS DOS PAISES AFRICANOS 
 INSERT INTO paises_africanos (pais, capital, populacao, tam, idioma, regiao) VALUES ('África do Sul', 'Cidade do Caboo', 57780000, 1221037, 'Inglês', 'África Meridional');
 INSERT INTO paises_africanos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Angola', 'Luanda', 32866272, 1246700, 'Português', 'África Austral');
 INSERT INTO paises_africanos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Argélia', 'Argel', 43851044, 2381741, 'Árabe', 'Norte da África');
@@ -185,6 +185,9 @@ INSERT INTO paises_africanos (pais, capital, populacao, tam, idioma, regiao) VAL
 INSERT INTO paises_africanos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Uganda', 'Kampala', 42862958, 241551, 'Inglês, Suaili', 'África Oriental');
 INSERT INTO paises_africanos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Zâmbia', 'Lusaka', 17094130, 752612, 'Inglês', 'África Austral');
 INSERT INTO paises_africanos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Zimbábue', 'Harare', 16913261, 390757, 'Inglês, Shona, Ndebele', 'África Austral');
+
+
+-- REYNAN PAIVA
 
 -- INSERINDO DADDOS DOS PAISES DA ASIA
 INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Afeganistão', 'Cabul', 38041757, 652230, 'Dari, Pashto', 'Ásia Central');
@@ -260,6 +263,9 @@ INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capi
 INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Santa Lúcia', , , 'América Central', 'Castries');  
 INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('São Cristóvão e Névis', , , 'América Central', 'Basseterre');  
 INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('São Viccente e Granadinas', , , 'America Central', 'Kingstown');  
+
+-- JOAO VICTOR 
+
 INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Trinidad e Tobago', , , 'América Central', 'Porto Espanha');  
 INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Argentina', , , 'América do Sul', 'Buenos Aires');  
 INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Bolívia', , , 'América do Sul', 'La Paz');  
