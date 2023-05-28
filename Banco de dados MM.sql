@@ -11,7 +11,6 @@ SELECT * FROM oceania;
 SELECT * FROM oceanos;
 SELECT * FROM paises_africanos;
 
-
 -- CRIANDO TABELAS
 CREATE TABLE africa(
 	id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
