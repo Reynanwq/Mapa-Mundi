@@ -18,7 +18,7 @@
         <td>Git</td>
         <td>SQL</td>
         <td>MongoDB</td>
-    </tr>
+    </tr> 
 <table>
 
 ---
