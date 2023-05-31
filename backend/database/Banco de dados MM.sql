@@ -233,11 +233,11 @@ INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VAL
 INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Sri Lanka', 'Kotte', , , '', 'Ásia Meridional');
 INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Tajiquistão', 'Dushanbe', , , '', 'Ásia central');
 INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Tailândia', 'Bangkok', , , '', 'Ásia de sudeste');
-INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Timor-Leste', 'Díli', , , '', '');
-INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Turcomenistão', 'Asgabate', , , '', '');
-INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Turquia', 'Ancara', , , '', '');
-INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Uzbequistão', 'Tashkent', , , '', '');
-INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Vietnã', 'Hanói', , , '', '');
+INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Timor-Leste', 'Díli', , , '', 'Ásia de sudeste');
+INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Turcomenistão', 'Asgabate', , , '', 'Ásia central');
+INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Turquia', 'Ancara', , , '', 'Oriente Médio');
+INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Uzbequistão', 'Tashkent', , , '', 'Ásia central');
+INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Vietnã', 'Hanói', , , '', 'Ásia de sudeste');
 
 -- ADICIONANDO DADOS DOS PAISES DA AMERICA LATINA
 INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Canada', , , 'America do Norte', 'Ottawa');
