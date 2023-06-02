@@ -240,28 +240,28 @@ INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VAL
 INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Vietnã', 'Hanói', 97490000, 331212, 'Vietnamita', 'Ásia de sudeste');
 
 -- ADICIONANDO DADOS DOS PAISES DA AMERICA LATINA
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Canada', , , 'America do Norte', 'Ottawa');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Estados Unidos', , , 'América do Norte', 'Washington D.C.');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('México', , , 'América do Norte', 'Cidade do México');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Antígua e Barbuda', , , 'América Central', 'Saint John s');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Bahamas', , , 'América Central', 'Nassau');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Barbados', , , 'América Central', 'Bridgetown');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Beliza', , , 'América Central', 'Belmopan');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Costa Rica', , , 'América Central', 'São José');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Cuba', , , 'América Central', 'Havana');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Dominica', , , 'América Central', 'Roseau');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('El Salvador', , , 'América Central', 'São Salvador');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Granada', , , 'América Central', 'Saint George s');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Guatemala', , , 'América Central', 'Cidade da Guatemala');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Haiti', , , 'América Central', 'Porto Principe');
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Honduras', , , 'América Central', 'Teguciagalpa');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Jamaica', , , 'América Central', 'Kingston');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Nicarágua', , , 'América Central', 'Manágua');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Panamá', , , 'América Central', 'Cidade do Panamá');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('República DOminicana', , , 'América Central', 'Santo Domingo');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Santa Lúcia', , , 'América Central', 'Castries');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('São Cristóvão e Névis', , , 'América Central', 'Basseterre');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('São Viccente e Granadinas', , , 'America Central', 'Kingstown');  
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Canadá', 38005238, 9976140, 'América do Norte', 'Ottawa');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Estados Unidos', 331002651, 9629091, 'América do Norte', 'Washington D.C.');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('México', 128932753, 1964375, 'América do Norte', 'Cidade do México');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Antígua e Barbuda', 97929, 442, 'América Central', 'Saint John\'s');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Bahamas', 393244, 13880, 'América Central', 'Nassau');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Barbados', 287375, 431, 'América Central', 'Bridgetown');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Belize', 397628, 22965, 'América Central', 'Belmopan');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Costa Rica', 5094118, 51100, 'América Central', 'San José');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Cuba', 11326616, 109884, 'América Central', 'Havana');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Dominica', 71986, 739, 'América Central', 'Roseau');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('El Salvador', 6486201, 21040, 'América Central', 'San Salvador');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Granada', 112523, 344, 'América Central', 'Saint George\'s');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Guatemala', 17915568, 108889, 'América Central', 'Cidade da Guatemala');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Haiti', 11402533, 27750, 'América Central', 'Porto Príncipe');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Honduras', 9904607, 112492, 'América Central', 'Tegucigalpa');  
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Jamaica', 2961161, 10991, 'América Central', 'Kingston');  
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Nicarágua', 6624554, 130373, 'América Central', 'Manágua');  
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Panamá', 4314767, 75420, 'América Central', 'Cidade do Panamá');  
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('República Dominicana', 10882996, 48670, 'América Central', 'Santo Domingo');  
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Santa Lúcia', 183627, 616, 'América Central', 'Castries');  
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('São Cristóvão e Nevis', 53199, 270, 'América Central', 'Basseterre');  
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('São Vicente e Granadinas', 110211, 389, 'América Central', 'Kingstown');  
 
 -- JOAO VICTOR 
 
