@@ -294,3 +294,61 @@ INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VA
 INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Tonga', 'Naki alofa', , '', , '');
 INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Tuvalu', 'Funafuti', , '', , '');
 INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Vanuatu', 'Port Vila', , '', , '');
+
+-- ADICIONANDO DADOS DOS PAISES DA EUROPA
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Albânia', 'Tirana', 2877797, 28748, 'Albanês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Alemanha', 'Berlim', 83149300, 357022, 'Alemão', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Andorra', 'Andorra a Velha', 78014, 468, 'Catalão', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Áustria', 'Viena', 8902600, 83858, 'Alemão', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Azerbaijão', 'Baku', 9973697, 86600, 'Azeri', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Bélgica', 'Bruxelas', 11413058, 30528, 'Holandês, Francês, Alemão', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Bielorrússia', 'Minsk', 9408400, 207600, 'Bielorrusso, Russo', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Bósnia e Herzegovina', 'Saravejo', 3301000, 51209, 'Bósnio, Croata, Sérvio', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Bulgária', 'Sofia', 7050034, 110879, 'Búlgaro', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Chipre', 'Nicósia', 1189265, 9251, 'Grego, Turco', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Croácia', 'Zagreb', 4076246, 56594, 'Croata', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Dinamarca', 'Copenhague', 5771876, 43094, 'Dinamarquês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Eslováquia', 'Bratislava', 5455000, 49037, 'Eslovaco', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Espanha', 'Madri', 46736776, 505990, 'Espanhol', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Estônia', 'Tallinn', 1319133, 45227, 'Estoniano', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Finlândia', 'Helsinki', 5527405, 338424, 'Finlandês, Sueco', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('França', 'Paris', 67060000, 643801, 'Francês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Grécia', 'Atenas', 10715549, 131957, 'Grego', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Hungria', 'Budapeste', 9721559, 93030, 'Húngaro', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Irlanda', 'Dublin', 4980455, 70273, 'Irlandês, Inglês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Islândia', 'Reykjavik', 356991, 103000, 'Islandês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Itália', 'Roma', 60252824, 301340, 'Italiano', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Letônia', 'Riga', 1906800, 64562, 'Letão', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Liechtenstein', 'Vaduz', 38380, 160, 'Alemão', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Lituânia', 'Vilnius', 2793471, 65300, 'Lituano', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Luxemburgo', 'Luxemburgo', 634730, 2586, 'Luxemburguês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Malta', 'Valeta', 493559, 316, 'Maltês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Malta', 'Valeta', 493559, 316, 'Maltês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Moldávia', 'Chisinau', 3547539, 33843, 'Moldávio', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Mônaco', 'Mônaco', 39242, 2.02, 'Francês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Montenegro', 'Podgorica', 620029, 13812, 'Montenegrino, Sérvio', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Noruega', 'Oslo', 5367580, 323802, 'Norueguês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Países Baixos', 'Amsterdã', 17445781, 41526, 'Holandês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Polônia', 'Varsóvia', 37970087, 312696, 'Polonês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Portugal', 'Lisboa', 10291196, 92212, 'Português', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('República Tcheca', 'Praga', 10708981, 78866, 'Tcheco', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Macedônia do Norte', 'Skopje', 2085051, 25713, 'Macedônio', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Inglaterra', 'Londres', 55980000, 130279, 'Inglês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Irlanda do Norte', 'Belfast', 1885400, 13841, 'Inglês, Irlandês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Escócia', 'Edimburgo', 5463300, 77933, 'Inglês, Escocês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('País de Gales', 'Cardiff', 3063456, 20779, 'Inglês, Galês', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Romênia', 'Bucareste', 19523621, 238397, 'Romeno', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Rússia', 'Moscou', 144526636, 17098242, 'Russo', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('San Marino', 'San Marino', 33574, 61, 'Italiano', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Sérvia', 'Belgrado', 7076372, 77474, 'Sérvio', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Suécia', 'Estocolmo', 10171524, 450295, 'Sueco', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Turquia', 'Ancara', 82319724, 783356, 'Turco', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Ucrânia', 'Kiev', 44385155, 603550, 'Ucraniano', 'Europa');
+INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Vaticano', 'Cidade do Vaticano', 825, 0.44, 'Latim, Italiano', 'Europa');
+
+
+
+
+
+
+
