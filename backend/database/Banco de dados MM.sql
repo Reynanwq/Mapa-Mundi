@@ -185,9 +185,6 @@ INSERT INTO paises_africanos (pais, capital, populacao, tam, idioma, regiao) VAL
 INSERT INTO paises_africanos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Zâmbia', 'Lusaka', 17094130, 752612, 'Inglês', 'África Austral');
 INSERT INTO paises_africanos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Zimbábue', 'Harare', 16913261, 390757, 'Inglês, Shona, Ndebele', 'África Austral');
 
-
--- REYNAN PAIVA
-
 -- INSERINDO DADDOS DOS PAISES DA ASIA
 INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Afeganistão', 'Cabul', 38041757, 652230, 'Dari, Pashto', 'Ásia Central');
 INSERT INTO paises_asiaticos (pais, capital, populacao, tam, idioma, regiao) VALUES ('Arábia Saudita', 'Riad', 3350000, 2149690, 'Árabe', 'Oriente Médio');
@@ -262,40 +259,39 @@ INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capi
 INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Santa Lúcia', 183627, 616, 'América Central', 'Castries');  
 INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('São Cristóvão e Nevis', 53199, 270, 'América Central', 'Basseterre');  
 INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('São Vicente e Granadinas', 110211, 389, 'América Central', 'Kingstown');  
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Trinidad e Tobago', 1400000, 5155, 'América Central', 'Porto Espanha');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Argentina', 45000000, 2780400, 'América do Sul', 'Buenos Aires');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Bolívia', 11000000, 1098581, 'América do Sul', 'La Paz');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Brazil', 211000000, 8515767, 'América do Sul', 'Brasília');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Chile', 18006407, 756102, 'América do Sul', 'Santiago');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Colômbia', 50372424, 1141748, 'América do Sul', 'Bogotá');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Equador', 17643060, 276841, 'América do Sul', 'Quito');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Guiana', 782225, 214969, 'América do Sul', 'Georgetown');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Guiana Francesa', 282731, 83534, 'América do Sul', 'Caiena');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Paraguai', 7252672, 406752, 'América do Sul', 'Assunção');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Peru', 32510453, 1285216, 'América do Sul', 'Lima');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Suriname', 581372, 163820, 'América do Sul', 'Paramaribo');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Uruguai', 3461734, 176215, 'América do Sul', 'Montevidéu');
+INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Venezuela', 32219521, 916445, 'América do Sul', 'Caracas');
 
--- JOAO VICTOR 
+ -- PAISES DA OCEANIA
+ 
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Australia', 'Camberra', 25000000, 'Inglês', 7692024, 'Oceania');
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Estados Federados da Micronésia', 'Palikir', 106000, 'Inglês', 702, 'Oceania');
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Fiji', 'Suva', 883483, 'Inglês, fijiano', 18274, 'Oceania');
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Ilhas Marshal', 'Majuro', 58413, 'Inglês, marshallês', 181, 'Oceania');
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Ilhas Salomão', 'Honiara', 686884, 'Inglês', 28370, 'Oceania');
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Kiribati', 'Tarawa do Sul', 120100, 'Inglês, kiribatiano', 811, 'Oceania');
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Nauru', 'Yaren', 10756, 'Inglês, nauruano', 21, 'Oceania');
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Nova Zelândia', 'Wellington', 5000000, 'Inglês, maori', 268021, 'Oceania');
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Palau', 'Ngerulmud', 18000, 'Inglês, palauano', 459, 'Oceania');
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Papua-Nova Guiné', 'Port Moresby', 8606316, 'Inglês, tok pisin', 462840, 'Oceania');
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Samoa', 'Apia', 196130, 'Samoano, inglês', 2831, 'Oceania');
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Tonga', 'Nukuʻalofa', 103197, 'Tongano, inglês', 747, 'Oceania');
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Tuvalu', 'Funafuti', 11323, 'Tuvaluano, inglês', 26, 'Oceania');
+INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao)VALUES ('Vanuatu', 'Port Vila', 280000, 'Bislamá, inglês, francês', 12189, 'Oceania');
 
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Trinidad e Tobago', , , 'América Central', 'Porto Espanha');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Argentina', , , 'América do Sul', 'Buenos Aires');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Bolívia', , , 'América do Sul', 'La Paz');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Brazil', , , 'América do Sul', 'Brasília');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Chile', , , 'América do Sul', 'Santiago');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Colômbia', , , 'América do Sul', 'Bogotá');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Equador', , , 'América do Sul', 'Quito');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Guiana', , , 'América do Sul', 'Georgetown');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Guiana Francesa', , , 'América do Sul', 'Caiena');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Paraguai', , , 'América do Sul', 'Assunção');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Peru', , , 'América do Sul', 'Lima');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Suriname', , , 'América do Sul', 'Paramaribo');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Uruguai', , , 'América do Sul', 'Montevidéu');  
-INSERT INTO paises_da_america (pais, populacao, tam, continente_na_america, capital) VALUES ('Venezuela', , , 'América do Sul', 'Caracas'); 
-
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Australia', 'Camberra', , '', , '');
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Estados Federados da Micronésia', 'Palikir', , '', , '');
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Fiji', 'Suva', , '', , '');
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Ilhas Marshal', 'Majuro', , '', , '');
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('ILhas Salomão', 'Honiara', , '', , '');
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Kiribati', 'Tarawa do Sul', , '', , '');
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Nauru', 'Yaren', , '', , '');
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('NOva Zelândia', 'Wellington', , '', , '');
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Palau', 'Ngerulmud', , '', , '');
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Papua-Nova Guiné', 'Port Moresby', , '', , '');
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Samoa', 'Apia', , '', , '');
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Tonga', 'Naki alofa', , '', , '');
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Tuvalu', 'Funafuti', , '', , '');
-INSERT INTO paises_da_oceania (pais, capital, populacao, idioma, tam, regiao) VALUES ('Vanuatu', 'Port Vila', , '', , '');
-
--- ADICIONANDO DADOS DOS PAISES DA EUROPA
+-- PAISES DA EUROPA
 INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Albânia', 'Tirana', 2877797, 28748, 'Albanês', 'Europa');
 INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Alemanha', 'Berlim', 83149300, 357022, 'Alemão', 'Europa');
 INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Andorra', 'Andorra a Velha', 78014, 468, 'Catalão', 'Europa');
@@ -345,10 +341,3 @@ INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALU
 INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Turquia', 'Ancara', 82319724, 783356, 'Turco', 'Europa');
 INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Ucrânia', 'Kiev', 44385155, 603550, 'Ucraniano', 'Europa');
 INSERT INTO paises_europeus (pais, capital, populacao, tam, idioma, regiao) VALUES ('Vaticano', 'Cidade do Vaticano', 825, 0.44, 'Latim, Italiano', 'Europa');
-
-
-
-
-
-
-
