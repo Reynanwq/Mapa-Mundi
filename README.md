@@ -5,6 +5,10 @@
 
 > Status: Developing ⚠️
 
+![telaPreview](https://user-images.githubusercontent.com/90296084/230699996-45127594-8732-4697-ba13-eacf8601333a.png)
+
+
+
 <h2 align="center"> 🛠 Technologies Used: </h2>
 <table align="center">
     <tr>
@@ -14,12 +18,12 @@
         <td>Git</td>
         <td>SQL</td>
         <td>MongoDB</td>
-    </tr>
+    </tr> 
 <table>
 
 ---
 
-<h2 align="center"> 🤓 Contato</h2> 
+<h2 align="center"> 🤓_Contato</h2> 
 <p align="center">reynanwq@gmail.com</p>
 <p align="center">victorrd.ws@gmail.com</p>
 
