@@ -5,79 +5,89 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
-    <link rel="stylesheet" href="login.css">
-    <link rel="shortcut icon" href="../../../assets/Favicon/icon.png">
+    <link rel="stylesheet" href="login.css"> <!-- Arquivo CSS externo -->
+    <link rel="shortcut icon" href="../../../assets/Favicon/icon.png"> <!-- Ícone do site -->
 </head>
 <body>
     <header>
-        <h2 class="logo"><img src="../../../assets/logo.png" alt="imagem de um globo"></h2>
+        <!-- Cabeçalho do site -->
+        <h2 class="logo"><img src="../../../assets/logo.png" alt="imagem de um globo"></h2> <!-- Logotipo -->
         <nav class="navigation">
+            <!-- Menu de navegação -->
             <a href="#">Home</a>
             <a href="#">About us</a>
             <a href="#">Services</a>
             <a href="#">Contact</a>
-            <button class="buttonFromHeader">Login</button>
+            <button class="buttonFromHeader">Login</button> <!-- Botão de login -->
         </nav>
     </header>
 
     <div class="login-main">
-        <span class="icon-close"><ion-icon name="close-outline"></ion-icon></span>
+        <!-- Conteúdo principal da página de login -->
+        <span class="icon-close"><ion-icon name="close-outline"></ion-icon></span> <!-- Ícone de fechar o formulário -->
 
         <div class="form-box login">
-            <h2>Login</h2>
+            <!-- Formulário de login -->
+            <h2>Login</h2> <!-- Título do formulário de login -->
             <form action="#">
+                <!-- Campos do formulário -->
                 <div class="input-box">
-                    <span class="icon"><ion-icon name="mail-outline"></ion-icon></span>
-                    <input type="email" required>
-                    <label>Email</label>
+                    <span class="icon"><ion-icon name="mail-outline"></ion-icon></span> <!-- Ícone de e-mail -->
+                    <input type="email" required> <!-- Campo de entrada de e-mail -->
+                    <label>Email</label> <!-- Rótulo para o campo de e-mail -->
                 </div>
                 <div class="input-box">
-                    <span class="icon"><ion-icon name="lock-closed-outline"></ion-icon></span>
-                    <input type="password" required>
-                    <label>Password</label>
+                    <span class="icon"><ion-icon name="lock-closed-outline"></ion-icon></span> <!-- Ícone de senha -->
+                    <input type="password" required> <!-- Campo de entrada de senha -->
+                    <label>Password</label> <!-- Rótulo para o campo de senha -->
                 </div>
                 <div class="remember">
-                    <label><input type="checkbox">Remember me</label>
-                    <a href="#">Forgot Password?</a>
+                    <!-- Opções adicionais -->
+                    <label><input type="checkbox">Remember me</label> <!-- Checkbox "Lembrar-me" -->
+                    <a href="#">Forgot Password?</a> <!-- Link "Esqueceu a senha?" -->
                 </div>
-                <button type="submit" class="btn">Login</button>
+                <button type="submit" class="btn">Login</button> <!-- Botão de login -->
                 <div class="login-register">
-                    <p>Don't have an account? <a href="#" class="register-link">Register</a></p>
+                    <p>Don't have an account? <a href="#" class="register-link">Register</a></p> <!-- Link para o registro -->
                 </div>
             </form>
         </div>
 
         <div class="form-box register">
-            <h2>Registration</h2>
+            <!-- Formulário de registro -->
+            <h2>Registration</h2> <!-- Título do formulário de registro -->
             <form action="#">
+                <!-- Campos do formulário -->
                 <div class="input-box">
-                    <span class="icon"><ion-icon name="person-outline"></ion-icon></span>
-                    <input type="text" required>
-                    <label>Username</label>
+                    <span class="icon"><ion-icon name="person-outline"></ion-icon></span> <!-- Ícone de usuário -->
+                    <input type="text" required> <!-- Campo de entrada de nome de usuário -->
+                    <label>Username</label> <!-- Rótulo para o campo de nome de usuário -->
                 </div>
                 <div class="input-box">
-                    <span class="icon"><ion-icon name="mail-outline"></ion-icon></span>
-                    <input type="email" required>
-                    <label>Email</label>
+                    <span class="icon"><ion-icon name="mail-outline"></ion-icon></span> <!-- Ícone de e-mail -->
+                    <input type="email" required> <!-- Campo de entrada de e-mail -->
+                    <label>Email</label> <!-- Rótulo para o campo de e-mail -->
                 </div>
                 <div class="input-box">
-                    <span class="icon"><ion-icon name="lock-closed-outline"></ion-icon></span>
-                    <input type="password" required>
-                    <label>Password</label>
+                    <span class="icon"><ion-icon name="lock-closed-outline"></ion-icon></span> <!-- Ícone de senha -->
+                    <input type="password" required> <!-- Campo de entrada de senha -->
+                    <label>Password</label> <!-- Rótulo para o campo de senha -->
                 </div>
                 <div class="remember">
-                    <label><input type="checkbox">I agree to the terms & conditions</label>
+                    <!-- Opções adicionais -->
+                    <label><input type="checkbox">I agree to the terms & conditions</label> <!-- Checkbox "Concordo com os termos e condições" -->
                 </div>
-                <button type="submit" class="btn">Register</button>
+                <button type="submit" class="btn">Register</button> <!-- Botão de registro -->
                 <div class="login-register">
-                    <p>Already have an account?<a href="#" class="login-link">Login</a></p>
+                    <p>Already have an account?<a href="#" class="login-link">Login</a></p> <!-- Link para o login -->
                 </div>
             </form>
         </div>
     </div>
 
-    <script src="lc.js"></script>
+    <script src="lc.js"></script> <!-- Arquivo JavaScript -->
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <!-- Scripts para a funcionalidade dos ícones -->
 </body>
 </html>
