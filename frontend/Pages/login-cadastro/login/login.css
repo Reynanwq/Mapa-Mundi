@@ -123,13 +123,12 @@ body{
     transition: none;
      transform: translateX(400px);
  }
- 
+
  
  .login-main.active .form-box.register{
     transition: transform .18s ease;
     transform: translateX(0);
   }
-
 
 
 .login-main .form-box.register{
